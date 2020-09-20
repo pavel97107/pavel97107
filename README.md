@@ -26,3 +26,6 @@
 [![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-131414?style=for-the-badge&logo=instagram)](
     https://www.instagram.com/only959595/
 )
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pavel97107&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+

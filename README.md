@@ -1,4 +1,4 @@
-![Header](https://github.com/pavel97107/pavel97107/blob/master/assets/Kathleen%20Johnson.png)
+![Header](https://github.com/pavel97107/pavel97107/blob/master/assets/place2.jpeg)
 
 ## I'm JavaScript developer and good boy.
 

@@ -2,8 +2,6 @@
 
 ## I'm JavaScript developer and good boy.
 
-Latest Youtube Videos
-
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-131414?style=for-the-badge&logo=javascript)
@@ -14,4 +12,17 @@ Latest Youtube Videos
 ![Express](https://img.shields.io/badge/-Express-131414?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-131414?style=for-the-badge&logo=mongodb)
 
-Follow ME
+### Follow ME
+
+[![VKONTAKTE](https://img.shields.io/badge/-VKONTAKTE-131414?style=for-the-badge&logo=vk)](
+    https://vk.com/pavel.serebryany
+)
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-131414?style=for-the-badge&logo=telegram)](
+    https://t.me/iampavell
+)
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-131414?style=for-the-badge&logo=linkedin)](
+    https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BD%D1%8B%D0%B9-a911691b2/
+)
+[![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-131414?style=for-the-badge&logo=instagram)](
+    https://www.instagram.com/only959595/
+)

@@ -1,4 +1,4 @@
-![Header](https://i.ibb.co/gT0DmNn/chess.jpg)
+![Header](https://i.ibb.co/Cvgjqt1/chess-1.jpg)
 
 ## I'm JavaScript developer and good boy.
 

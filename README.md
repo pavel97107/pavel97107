@@ -1,4 +1,4 @@
-![Header](https://github.com/pavel97107/pavel97107/blob/master/assets/place2.jpeg)
+![Header](https://i.ibb.co/gT0DmNn/chess.jpg)
 
 ## I'm JavaScript developer and good boy.
 
